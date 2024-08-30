@@ -148,103 +148,27 @@
     </div>
 
 
-    <!-- ##### Team Area Start ##### -->
-    <section class="our_team_area section-padding-100-70 clearfix top-lose" id="team">
-        <div class="container">
-            <div class="row">
-                <div class="col-12">
-                    <div class="section-heading text-center section-heading1">
-                        <h2 class="fadeInUp" data-wow-delay="0.3s">Our Creative Team</h2>
-                        <p class="fadeInUp" data-wow-delay="0.4s">TaskTranslate's creative team combines linguistic expertise with cultural insight, ensuring every translation is accurate and meaningful. Their dedication makes each project a success.</p>
-                    </div>
-                </div>
-            </div>
-
-            <div class="row">
-                <!-- Single Team Member -->
-                <div class="col-12 col-sm-6 col-lg-3">
-                    <div class="our-team ico-team">
-                        <div class="team_img">
-                            <img src="img/team-img/member1.png" alt="chef-1">
-                            <ul class="social">
-                                <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                                <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                                <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
-                            </ul>
-                        </div>
-                        <div class="team-content">
-                            <h4 class="title">Randy crishen</h4>
-                            <span class="post">Our Company CEO</span>
-                        </div>
-                    </div>
-                </div>
-
-                <!-- Single Team Member -->
-                <div class="col-12 col-sm-6 col-lg-3">
-                    <div class="our-team ico-team">
-                        <div class="team_img">
-                            <img src="img/team-img/member2.png" alt="chef-1">
-                            <ul class="social">
-                                <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                                <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                                <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
-                            </ul>
-                        </div>
-                        <div class="team-content">
-                            <h4 class="title">Monica Ashker</h4>
-                            <span class="post">Professional Translator</span>
-                        </div>
-                    </div>
-                </div>
-
-                <!-- Single Team Member -->
-                <div class="col-12 col-sm-6 col-lg-3">
-                    <div class="our-team ico-team">
-                        <div class="team_img">
-                            <img src="img/team-img/member3.png" alt="chef-1">
-                            <ul class="social">
-                                <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                                <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                                <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
-                            </ul>
-                        </div>
-                        <div class="team-content">
-                            <h4 class="title">Tollay Ramzomi</h4>
-                            <span class="post">Business Consultant</span>
-                        </div>
-                    </div>
-                </div>
-
-                <!-- Single Team Member -->
-                <div class="col-12 col-sm-6 col-lg-3">
-                    <div class="our-team ico-team">
-                        <div class="team_img">
-                            <img src="img/team-img/member4.png" alt="chef-1">
-                            <ul class="social">
-                                <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                                <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-                                <li><a href="#"><i class="fa fa-linkedin"></i></a></li>
-                            </ul>
-                        </div>
-                        <div class="team-content">
-                            <h4 class="title">Jacke Wilson</h4>
-                            <span class="post">Our Company COO</span>
-                        </div>
-                    </div>
-                </div>
-
-            </div>
-        </div>
-    </section>
-    <!-- ##### Team Area End ##### -->
-
     <div class="section-heading text-center section-heading1">
         <h2 class="fadeInUp" data-wow-delay="0.3s">Our Clients</h2>
     </div>
     <div class="flex-container gap-cencel">
-        <img src="img/client/cl1.png" data-aos="flip-left" alt="Image 1">
-        <img src="img/client/cl2.png" data-aos="flip-left" alt="Image 2">
-        <img src="img/client/cl3.png" data-aos="flip-left" alt="Image 3">
+        <img src="img/client/ca.jpg" data-aos="flip-left" alt="Image 1">
+        <img src="img/client/cb.jpg" data-aos="flip-left" alt="Image 2">
+        <img src="img/client/cc.jpg" data-aos="flip-left" alt="Image 3">
+        <img src="img/client/cd.jpg" data-aos="flip-left" alt="Image 4">
+        <img src="img/client/ce.jpg" data-aos="flip-left" alt="Image 5">
+        <img src="img/client/cf.jpg" data-aos="flip-left" alt="Image 5">
+        <img src="img/client/cg.jpg" data-aos="flip-left" alt="Image 5">
+        <img src="img/client/ch.jpg" data-aos="flip-left" alt="Image 5">
+        <img src="img/client/ci.jpg" data-aos="flip-left" alt="Image 5">
+        <img src="img/client/cj.jpg" data-aos="flip-left" alt="Image 5">
+        <img src="img/client/ck.jpg" data-aos="flip-left" alt="Image 5">
+        <img src="img/client/cl.jpg" data-aos="flip-left" alt="Image 5">
+        <img src="img/client/cm.jpg" data-aos="flip-left" alt="Image 5">
+        <img src="img/client/cn.jpg" data-aos="flip-left" alt="Image 5">
+        <img src="img/client/co.png" data-aos="flip-left" alt="Image 5">
+        <img src="img/client/cp.png" data-aos="flip-left" alt="Image 5">
+        <img src="img/client/cq.png" data-aos="flip-left" alt="Image 5">
     </div>
 
     <script src="https://unpkg.com/aos@next/dist/aos.js"></script>

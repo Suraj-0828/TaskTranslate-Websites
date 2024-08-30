@@ -160,6 +160,35 @@
 <!-- script js -->
 <script src="js/script.js"></script>
 
+<!-- Swiper JS -->
+<script src="https://unpkg.com/swiper/swiper-bundle.min.js"></script>
+<script>
+    var swiper = new Swiper('.swiper-container', {
+        slidesPerView: 1,
+        spaceBetween: 20,
+        pagination: {
+            el: '.swiper-pagination',
+            clickable: true,
+        },
+        navigation: {
+            nextEl: '.swiper-button-next',
+            prevEl: '.swiper-button-prev',
+        },
+        autoplay: {
+            delay: 3000, // Delay between slides in milliseconds
+            disableOnInteraction: false, // Allow autoplay to continue after user interactions
+        },
+        breakpoints: {
+            768: {
+                slidesPerView: 2,
+            },
+            930: {
+                slidesPerView: 3,
+            },
+        },
+    });
+</script>
+
 </body>
 
 

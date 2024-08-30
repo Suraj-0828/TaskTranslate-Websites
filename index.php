@@ -66,7 +66,7 @@
                                 drive success for your business.</p>
                             <div class="info-btn-group wow fadeInUp" data-wow-delay="0.4s">
                                 <a href="contact-us.php" class="btn more-btn mr-3">Contact Now</a>
-                               
+
                             </div>
                         </div>
                     </div>
@@ -342,7 +342,7 @@
                         </div>
                         <h6 class="bold a">Documents Translation</h6>
                         <p>Get your documents accurately translated with precision and care, ensuring clarity in every language.</p>
-                       
+
                     </div>
                 </div>
                 <div class="col-12 col-md-6 col-lg-4">
@@ -354,7 +354,7 @@
                         </div>
                         <h6 class="bold a">Apostile & Legalization</h6>
                         <p>Ensure your documents are globally recognized with our reliable apostille and legalization services.</p>
-                        
+
                     </div>
                 </div>
                 <div class="col-12 col-md-6 col-lg-4">
@@ -366,7 +366,7 @@
                         </div>
                         <h6 class="bold a">Localization Services</h6>
                         <p>Make your documents internationally valid with our trusted apostille and legalization services.</p>
-                      
+
                     </div>
                 </div>
 
@@ -379,7 +379,7 @@
                         </div>
                         <h6 class="bold a">Website Translation</h6>
                         <p>Translate your website seamlessly for global audiences, ensuring accurate and culturally relevant content.</p>
-                        
+
                     </div>
                 </div>
                 <div class="col-12 col-md-6 col-lg-4">
@@ -391,7 +391,7 @@
                         </div>
                         <h6 class="bold a">Personal Translation</h6>
                         <p>Get your personal documents translated with care, ensuring accuracy and confidentiality.</p>
-                        
+
                     </div>
                 </div>
                 <div class="col-12 col-md-6 col-lg-4">
@@ -403,13 +403,42 @@
                         </div>
                         <h6 class="bold a">Interpreting Services</h6>
                         <p>Facilitate clear communication with our professional interpreting services, tailored to your specific needs.</p>
-                    
+
                     </div>
                 </div>
 
             </div>
         </div>
     </section>
+
+    <div class="section-heading text-center section-heading1">
+        <h2 class="fadeInUp" data-wow-delay="0.3s">Our Clients</h2>
+    </div>
+    <div class="auto_slider_container boody">
+        <ul class="auto_slider">
+            <li><img src="img/client/ca.jpg" data-aos="flip-left" alt="Image 1"></li>
+            <li><img src="img/client/cb.jpg" data-aos="flip-left" alt="Image 2"></li>
+            <li><img src="img/client/cc.jpg" data-aos="flip-left" alt="Image 3"></li>
+            <li><img src="img/client/cd.jpg" data-aos="flip-left" alt="Image 4"></li>
+            <li><img src="img/client/ce.jpg" data-aos="flip-left" alt="Image 5"></li>
+            <li><img src="img/client/cf.jpg" data-aos="flip-left" alt="Image 5"></li>
+            <li><img src="img/client/cg.jpg" data-aos="flip-left" alt="Image 5"></li>
+            <li><img src="img/client/ch.jpg" data-aos="flip-left" alt="Image 5"></li>
+            <li><img src="img/client/cq.png" data-aos="flip-left" alt="Image 5"></li>
+        </ul>
+        <ul class="auto_slider">          
+            <li><img src="img/client/ci.jpg" data-aos="flip-left" alt="Image 5"></li>
+            <li><img src="img/client/cj.jpg" data-aos="flip-left" alt="Image 5"></li>
+            <li><img src="img/client/ck.jpg" data-aos="flip-left" alt="Image 5"></li>
+            <li><img src="img/client/cl.jpg" data-aos="flip-left" alt="Image 5"></li>
+            <li><img src="img/client/cm.jpg" data-aos="flip-left" alt="Image 5"></li>
+            <li><img src="img/client/cn.jpg" data-aos="flip-left" alt="Image 5"></li>
+            <li><img src="img/client/co.png" data-aos="flip-left" alt="Image 5"></li>
+            <li><img src="img/client/cp.png" data-aos="flip-left" alt="Image 5"></li>
+            <li><img src="img/client/cq.png" data-aos="flip-left" alt="Image 5"></li>
+        </ul>
+    </div>
+
 
     <!-- ##### Team Area Start ##### -->
     <section id="career" class="our_team_area section-padding-100-70 clearfix d">
@@ -447,51 +476,51 @@
                         <p style="padding: 0px 18px 0px 18px;">Come grow with us and build a rewarding career at The
                             Task Translate. Apply today and take the first step towards a bright future.</p>
 
-                            <div class="post-a-comment-area mt-100 fadeInUp" data-wow-delay="0.6s">
-                        <h5>Leave a reply</h5>
-                        <!-- Reply Form -->
-                        <form action="backend2" method="post" enctype='multipart/form-data'>
-                            <div class="row">
-                                <div class="col-12 col-md-6">
-                                    <div class="group">
-                                        <input type="text" name="name" id="name" required>
-                                        <span class="bar"></span>
-                                        <label>Name</label>
+                        <div class="post-a-comment-area mt-100 fadeInUp" data-wow-delay="0.6s">
+                            <h5>Leave a reply</h5>
+                            <!-- Reply Form -->
+                            <form action="backend2" method="post" enctype='multipart/form-data'>
+                                <div class="row">
+                                    <div class="col-12 col-md-6">
+                                        <div class="group">
+                                            <input type="text" name="name" id="name" required>
+                                            <span class="bar"></span>
+                                            <label>Name</label>
+                                        </div>
+                                    </div>
+                                    <div class="col-12 col-md-6">
+                                        <div class="group">
+                                            <input type="text" name="email" id="email" required>
+                                            <span class="bar"></span>
+                                            <label>Email</label>
+                                        </div>
+                                    </div>
+                                    <div class="col-12 col-md-6">
+                                        <div class="group">
+                                            <input type="text" name="phone" id="phone" required>
+                                            <span class="bar"></span>
+                                            <label>Phone Number</label>
+                                        </div>
+                                    </div>
+                                    <div class="col-12 col-md-6">
+                                        <div class="group">
+                                            <input type="text" name="subject" id="subject" required>
+                                            <span class="bar"></span>
+                                            <label>Subject</label>
+                                        </div>
+                                    </div>
+                                    <div class="col-12">
+                                        <div class="group">
+                                            <input type="file" id="file" name="document1" required>
+                                            <span class="bar"></span>
+                                        </div>
+                                    </div>
+                                    <div class="col-12">
+                                        <button type="submit" class="btn more-btn blue">Submit</button>
                                     </div>
                                 </div>
-                                <div class="col-12 col-md-6">
-                                    <div class="group">
-                                        <input type="text" name="email" id="email" required>
-                                        <span class="bar"></span>
-                                        <label>Email</label>
-                                    </div>
-                                </div>
-                                <div class="col-12 col-md-6">
-                                    <div class="group">
-                                        <input type="text" name="phone" id="phone" required>
-                                        <span class="bar"></span>
-                                        <label>Phone Number</label>
-                                    </div>
-                                </div>
-                                <div class="col-12 col-md-6">
-                                    <div class="group">
-                                        <input type="text" name="subject" id="subject" required>
-                                        <span class="bar"></span>
-                                        <label>Subject</label>
-                                    </div>
-                                </div>
-                                <div class="col-12">
-                                    <div class="group">
-                                        <input type="file" id="file" name="document1" required>
-                                        <span class="bar"></span>
-                                    </div>
-                                </div>
-                                <div class="col-12">
-                                    <button type="submit" class="btn more-btn blue">Submit</button>
-                                </div>
-                            </div>
-                        </form>
-                    </div>
+                            </form>
+                        </div>
 
                     </div>
                 </div>
